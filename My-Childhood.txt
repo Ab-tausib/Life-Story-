@@ -2,4 +2,8 @@ Here, I write my childhood story.
 Here, I have added some new line.
 It is my four commit.
 It is five commit on Github Repository. Here, I branching at 4th line.
+<<<<<<< HEAD
 I am also merge on local Repo.
+=======
+I am using branch. & merge
+>>>>>>> c1d7f18fd5ef318498464bb400d5c3cad844a553
